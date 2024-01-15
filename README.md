@@ -11,4 +11,4 @@ python main.py
 
 
 ### Sample screenshot of output
-<img src="https://github.com/esatozholcek/Exam-Scheduler-Using-Simulated-Annealing/assets/91495699/e5c136f5-f061-439c-bed9-46dcd119ceca" width=75% height=75%>
+<img src="https://github.com/esatozholcek/Exam-Scheduler-Using-Simulated-Annealing/assets/91495699/a5af02e7-a0d7-44c6-aabd-7cf3d372f291" width=75% height=75%>
