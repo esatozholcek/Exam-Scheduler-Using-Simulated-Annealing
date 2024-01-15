@@ -3,12 +3,12 @@ class Schedule:
         self.days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
         self.weeks = ["Week1"]
         self.time_slots = [
-            "8:00 AM - 10:00 AM",
-            "10:30 AM - 12:30 PM",
-            "1:00 PM - 2:00 PM",
-            "2:30 PM - 4:30 PM",
-            "5:00 PM - 6:00 PM",
-            "6:30 PM - 8:30 PM",
+            "08:00 AM - 10:00 AM",
+            "10:30 AM - 00:30 PM",
+            "01:00 PM - 02:00 PM",
+            "02:30 PM - 04:30 PM",
+            "05:00 PM - 06:00 PM",
+            "06:30 PM - 08:30 PM",
         ]
         self.schedule = {week: {day: {slot: None for slot in self.time_slots} for day in self.days} for week in self.weeks}
         

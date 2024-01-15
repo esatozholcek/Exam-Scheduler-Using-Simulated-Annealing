@@ -29,7 +29,7 @@ def main():
         lesson = course_info['course'] 
         week = course_info['week']
 
-        print(f"Day: {day}, Time: {time_slot}, Lesson: {lesson}, Week: {week}, Rooms: {course_info['rooms']}")
+        print(f"Day: {day:<12} Time: {time_slot:<22} Lesson: {lesson:<12} Week: {week:<8} Rooms: {course_info['rooms']}")
     print("Blocked hour is ", blocked_hours)
 if __name__ == '__main__':
     main()
