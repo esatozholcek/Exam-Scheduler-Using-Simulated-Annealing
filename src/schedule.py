@@ -4,7 +4,7 @@ class Schedule:
         self.weeks = ["Week1"]
         self.time_slots = [
             "08:00 AM - 10:00 AM",
-            "10:30 AM - 00:30 PM",
+            "10:30 AM - 12:30 PM",
             "01:00 PM - 02:00 PM",
             "02:30 PM - 04:30 PM",
             "05:00 PM - 06:00 PM",
